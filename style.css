@@ -1,5 +1,5 @@
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif, Helvetica;
     margin: 0;
 }
     h1{
@@ -10,7 +10,7 @@ body{
     .color{
         color: orange;
     }
-    section{
+    .new-flexible{
         display: flex;
         margin-bottom: 80px;
     }
@@ -52,4 +52,56 @@ body{
         color: white;
         font-weight: 400;
         border-radius: 30px;
+    }
+    .new-items{
+        text-align: center;
+    }
+    .new-items1{
+        line-height: 0px;
+  text-align: center
+    }
+    .food2 img{
+        width: 80%;
+        padding-top: 16%;
+        padding-left: 10%;
+    }
+    .title1{
+        width: 80%;
+        padding-top: 5%;
+        padding-left: 5%;
+    }
+    #page{
+        width: 80%;
+        padding-top: 5%;
+        padding-left: 5%;
+    }
+    .food3 img{
+        width: 68%;
+        padding-top: 12%;
+        padding-left: 12%;
+    }
+    .title2{
+        width: 60%;
+        padding-top: 4%;
+        padding-left: 12%;
+    }
+    #page1{
+        width: 60%;
+        padding-top: 3%;
+        padding-left: 12%;
+    }
+    .food4 img{
+        width: 75%;
+        padding-top: 13%;
+        padding right: 5%;
+    }
+    .title3{
+        width: 60%;
+        padding-top: 3%;
+        padding-right: 5%;
+    }
+    #page2{
+        width: 60%;
+        padding-top: 3%;
+        padding-right: 5%;
     }
